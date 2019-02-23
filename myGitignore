@@ -17,6 +17,10 @@
 .c9/
 *.launch
 .settings/
+.idea
+.metadata
+*.iml
+*.ipr
 
 # IDE - VSCode
 .vscode/*
