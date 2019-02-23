@@ -21,6 +21,7 @@
 .metadata
 *.iml
 *.ipr
+/target
 
 # IDE - VSCode
 .vscode/*
